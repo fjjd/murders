@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529763395569.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1143279135",
+    "id" : "3D887A93",
+    "lastKnownWriteTime" : 1529764832,
+    "last_content_update" : 1529764832194,
+    "path" : "~/projects/murders/wrangle-data.R",
+    "project_path" : "wrangle-data.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

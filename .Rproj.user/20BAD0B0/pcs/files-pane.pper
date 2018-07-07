@@ -1,0 +1,9 @@
+{
+    "path" : "~/projects/murders",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529762830868.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4079386332",
+    "id" : "A0E1569E",
+    "lastKnownWriteTime" : 1529764825,
+    "last_content_update" : 1529764825326,
+    "path" : "~/projects/murders/download-data.R",
+    "project_path" : "download-data.R",
+    "properties" : {
+        "cursorPosition" : "2,40",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
