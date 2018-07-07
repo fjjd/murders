@@ -4,5 +4,6 @@ murders %>% mutate(abb= reorder(abb,rate)) %>%
   ggplot(aes(abb,rate)) + 
   geom_bar(with =0.5, stat = "identity", color = "black") +
   coord_flip()
-
+ggsave("figs/barplot.jpg")
+ggsave("figs/barplot.pdf")
 ggsave("figs/barplot.png")
